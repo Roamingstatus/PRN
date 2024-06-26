@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Art of Calm on PRN</title>
+    <link>http://localhost:1313/tags/the-art-of-calm/</link>
+    <description>Recent content in The Art of Calm on PRN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 08:15:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-art-of-calm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Art of calm</title>
+      <link>http://localhost:1313/posts/artofcalm/</link>
+      <pubDate>Wed, 26 Jun 2024 08:15:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/artofcalm/</guid>
+      <description>Fundamentally, nursing is about caring, right?&#xA;How caring are you still after a long string of rude patients cursing you out, or another CIWA patient trying to hit you, or that cute elderly patient slapping you?&#xA;With all the stressors of life, let alone the ones in the nursing field, weighing heavily on nurses, it&amp;rsquo;s understandable to get upset in these situations.&#xA;I truly believe that the way a nurse reacts sets the tone for the shift, the entire hospital stay, and maybe even the rest of the patients&amp;rsquo; and nurses&amp;rsquo; lives.</description>
+    </item>
+  </channel>
+</rss>

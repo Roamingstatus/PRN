@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PRN</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on PRN</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 09:16:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Is it Convenient or is it Caring?</title>
+      <link>http://localhost:1313/posts/caringvsconvenience/</link>
+      <pubDate>Wed, 26 Jun 2024 09:16:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/caringvsconvenience/</guid>
+      <description>Nursing has obviously evolved into the technologically advanced, almost cure-all profession we know today.&#xA;If it were possible to pull back the blinds and see what our founders&amp;rsquo; intentions were, how they practiced then, and how they practiced five decades ago.&#xA;As I referenced yesterday, chemical and physical solutions are sometimes necessary. However, the healthcare field has instituted changes in the last couple of decades that I&amp;rsquo;ve been practicing to understand that these measures aren&amp;rsquo;t always necessary and can lead to negative outcomes at times.</description>
+    </item>
+    <item>
+      <title>The Art of calm</title>
+      <link>http://localhost:1313/posts/artofcalm/</link>
+      <pubDate>Wed, 26 Jun 2024 08:15:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/artofcalm/</guid>
+      <description>Fundamentally, nursing is about caring, right?&#xA;How caring are you still after a long string of rude patients cursing you out, or another CIWA patient trying to hit you, or that cute elderly patient slapping you?&#xA;With all the stressors of life, let alone the ones in the nursing field, weighing heavily on nurses, it&amp;rsquo;s understandable to get upset in these situations.&#xA;I truly believe that the way a nurse reacts sets the tone for the shift, the entire hospital stay, and maybe even the rest of the patients&amp;rsquo; and nurses&amp;rsquo; lives.</description>
+    </item>
+    <item>
+      <title>Intro</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Jun 2024 12:44:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>PRN? As needed , or required?&#xA;I&amp;rsquo;ll be sharing my personal views, opinions, and rants about the nursing field, and I hope to receive feedback from my fellow nurses.</description>
+    </item>
+  </channel>
+</rss>

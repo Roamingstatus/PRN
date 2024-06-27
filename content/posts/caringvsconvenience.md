@@ -1,7 +1,8 @@
 +++
 title = 'Caringvsconvenience'
 date = 2024-06-27T06:51:52-05:00
-draft = true
+draft = false
+
 +++
 Nursing has obviously evolved into the technologically advanced, almost cure-all profession we know today.
 

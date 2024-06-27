@@ -1,9 +1,8 @@
 +++
-title = 'Is it Convenient or is it Caring?'
-date = 2024-06-27T09:16:37-05:00
-draft = false
+title = 'Caringvsconvenience'
+date = 2024-06-27T06:51:52-05:00
+draft = true
 +++
-
 Nursing has obviously evolved into the technologically advanced, almost cure-all profession we know today.
 
 If it were possible to pull back the blinds and see what our founders' intentions were, how they practiced then, and how they practiced five decades ago.
@@ -18,4 +17,4 @@ Sometimes, depending on the sum of personality, mood, and current life events of
 
 Thus, this most likely leads to negative patient outcomes and what most people don't consider, negative caregiver outcomes. It perpetuates a culture, habits, and mentality of reacting only for convenience instead of stepping back and considering the long-term effects of short-fused decisions.
 
-I feel like some institutions encourage these hasty reactions by not teaching their staff to look at the bigger picture and then wonder why they have a large number of negative incidents. Am I wrong? Am I delusional for thinking we could react in a more caring fashion and relearn the [Art of Calm](http://localhost:1313/posts/artofcalm/)
+I feel like some institutions encourage these hasty reactions by not teaching their staff to look at the bigger picture and then wonder why they have a large number of negative incidents. Am I wrong? Am I delusional for thinking we could react in a more caring fashion and relearn the [Art of Calm](https://www.prnrants.com/posts/artofcalm/)

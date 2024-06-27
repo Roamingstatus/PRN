@@ -1,6 +1,6 @@
 +++
 title = 'Is it Convenient or is it Caring?'
-date = 2024-06-26T09:16:37-05:00
+date = 2024-06-27T09:16:37-05:00
 draft = false
 +++
 

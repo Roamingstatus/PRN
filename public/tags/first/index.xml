@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>First on PRN</title>
+    <title>First on PRN ?</title>
     <link>http://localhost:1313/tags/first/</link>
-    <description>Recent content in First on PRN</description>
+    <description>Recent content in First on PRN ?</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 Jun 2024 12:44:38 -0500</lastBuildDate>

@@ -15,4 +15,4 @@ I truly believe that the way a nurse reacts sets the tone for the shift, the ent
 
 This is what determines the outcome: peaceful resolutions versus the use of chemical or physical interventions to achieve what we sometimes perceive as a good outcome. Don't get me wrong; these measures are absolutely necessary in some cases, but are they always?
 
-[part2](http://localhost:1313/posts/caringvsconvenience/)
+[part2](https://www.prnrants.com/posts/caringvsconvenience/)

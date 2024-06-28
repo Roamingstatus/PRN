@@ -5,7 +5,7 @@ draft = false
 tags = 'First'
 +++
 
- PRN?
- As needed , or required?
+ [![targets](/images/blgimg1.jpeg)](https://www.facebook.com/profile.php?id=61561547853992)
+
 
  I'll be sharing my personal views, opinions, and rants about the nursing field, and I hope to receive feedback from my fellow nurses.

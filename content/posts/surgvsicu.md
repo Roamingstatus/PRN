@@ -3,7 +3,7 @@ title = 'Nursing Teams : Acute care vs Critical care'
 date = 2024-06-29T06:06:00-05:00
 draft = false
 +++
-[![targets](/images/blgimg2.jpeg)]
+![targets](/images/blgimg2.jpeg)
 
 You ever worked in that hospital , on that unit where you’re running around and you look around and the other nurses were just sitting , browsing….
 

@@ -7,5 +7,10 @@ tags = 'First'
 
  [![targets](/images/blgimg1.jpeg)](https://www.facebook.com/profile.php?id=61561547853992)
 
+!Disclaimer!
 
- I'll be sharing my personal views, opinions, and rants about the nursing field, and I hope to receive feedback from my fellow nurses.
+ These are just my personal views, opinions, and rants about the nursing field. 
+ Even with the two decades of experience in the field, I do not make any claims to be  the foremost expert in this field .
+ What I'm hoping for is funny but respectful comments, constructive criticism and any valuable input.
+ I'm hoping to grow , become better by interacting with my peers on this forum. 
+ Thank you for visiting my blog.

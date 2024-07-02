@@ -7,7 +7,8 @@ tags = 'First'
 
  [![targets](/images/blgimg1.jpeg)](https://www.facebook.com/profile.php?id=61561547853992)
 
- ### Heading level 3 !Disclaimer!
+
+ **!Disclaimer!**
 
  These are just my personal views, opinions, and rants about the nursing field. 
  I'm definitely no expert writer and even with the two decades of experience in the field, *I do not make any claims to be  the foremost expert in this field* .

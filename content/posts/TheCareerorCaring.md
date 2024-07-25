@@ -5,10 +5,11 @@ draft = false
 +++
 
 The Career of Caring
-nurse
-/nərs/
-verb
-gerund or present participle: nursing
+
+    nurse
+    /nərs/
+    verb
+    gerund or present participle: nursing
 
 
     Give medical and other attention to (a sick person).

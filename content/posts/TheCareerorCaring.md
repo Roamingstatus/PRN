@@ -44,5 +44,5 @@ Or do we see this as an inconvenience to our shift , quickly dismiss them and fi
 Please let me know in the comments what you think .
 
 I want to start another page on this blog dedicated to stories from nurses all over the country or world , maybe titled , Nursing Horror stories and/or What is your Nursing Superpower, please email your stories here. 
-[Email](mailto:prnrants@gmail.com)
+[prnrants@gmail.com](mailto:prnrants@gmail.com)
 

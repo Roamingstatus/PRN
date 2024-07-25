@@ -24,7 +24,7 @@ gerund or present participle: nursing
 
 
 
-This feels like a part two to  Caring vs Convenience .As I established in that article , the fundamentals of our profession are obviously rooted in caring.
+This feels like a part two to  ([Caring Vs Convenience](https://www.prnrants.com/posts/caringvsconvenience/)) .As I established in that article , the fundamentals of our profession are obviously rooted in caring.
 
 And unlike many other careers our customers ,most of the time, come to us defeated , with no other alternative, hurting , scared , with a lot of questions .They’re usually looking for assurance , patience ,  answers , hope .
 

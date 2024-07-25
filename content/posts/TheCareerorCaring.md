@@ -1,5 +1,5 @@
 +++
-title = 'TheCareer or Caring'
+title = 'The Career or Caring'
 date = 2024-07-25T13:43:53-05:00
 draft = false
 +++
